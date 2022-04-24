@@ -28,6 +28,12 @@
 3. ![sc](Image/SideB.png) 옆 모습 2
 4. ![sc](Image/Behind.png) 뒷 모습
 5. ![sc](Image/Nomal_walk.png) 걷기 애니메이션을 위한 전체 모습
+
+## 그외 이미지들
+
+1. ![sc](Image/Door.png) 편집본 ![sc](Image/DoorS.png) 원본
+
+
  
 ### 참고 하고 있는 영상
 
