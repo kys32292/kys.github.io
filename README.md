@@ -34,7 +34,10 @@
 ### 문
 ![sc](Image/DoorS.png) 원본 ![sc](Image/Door.png) 편집본(인 게임 사용)
 
-
+### 열쇠
+1. ![sc](Image/Key_Greed.png)
+2. ![sc](Image/Key_Sloth.png)
+3. ![sc](Image/Key_Wrath.png)
  
 ### 참고 하고 있는 영상
 
