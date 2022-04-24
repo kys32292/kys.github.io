@@ -32,7 +32,9 @@
 5. ![sc](Image/Nomal_walk.png) 걷기 애니메이션을 위한 전체 모습
 
 ## 맵 이미지
-
+1. ![sc](MapImage/Sloth.png)
+2. ![sc](MapImage/SlothMini.png)
+3. ![sc](MapImage/GluttonyMini.png)
 
 
 ## 그외 이미지들 (원본이 같이 안 올라온 것들은 대충 혼자 그린겁니다.)
@@ -44,6 +46,9 @@
 1. ![sc](Image/Key_Greed.png)
 2. ![sc](Image/Key_Sloth.png)
 3. ![sc](Image/Key_Wrath.png)
+
+### 음식
+![sc](Image/GluttonyFood.png)
  
 ### 참고 하고 있는 영상
 
