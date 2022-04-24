@@ -1,6 +1,6 @@
-# 큰제목
+# 게임 이름
 
-안녕하세요
+### Endure the Five deadly sins(5개의 욕망 참기)
 
 
 ## 두번째 서브제목
