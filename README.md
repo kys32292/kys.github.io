@@ -25,6 +25,8 @@
 
 1. ![sc](Image/Front.png) 앞 모습
 2. ![sc](Image/SideA.png) 옆 모습 1
-
+3. ![sc](Image/SideB.png) 옆 모습 2
+4. ![sc](Image/Behind.png) 뒷 모습
+5. ![sc](Image/Nomal_walk.png) 걷기 애니메이션을 위한 전체 모습
  
 
