@@ -29,7 +29,7 @@
 4. ![sc](Image/Behind.png) 뒷 모습
 5. ![sc](Image/Nomal_walk.png) 걷기 애니메이션을 위한 전체 모습
 
-## 그외 이미지들
+## 그외 이미지들 (원본이 같이 안 올라온 것들은 대충 혼자 그린겁니다.)
 
 ### 문
 ![sc](Image/DoorS.png) 원본 ![sc](Image/Door.png) 편집본(인 게임 사용)
