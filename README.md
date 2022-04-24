@@ -29,4 +29,10 @@
 4. ![sc](Image/Behind.png) 뒷 모습
 5. ![sc](Image/Nomal_walk.png) 걷기 애니메이션을 위한 전체 모습
  
+### 참고 하고 있는 영상
 
+유튜버 케이디님, 골든메탈님, Dev GomDol님
+
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
