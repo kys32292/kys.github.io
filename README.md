@@ -31,8 +31,8 @@
  
 ### 참고 하고 있는 영상
 
-유튜버 케이디님, 골든메탈님, Dev GomDol님
+유튜버 [케이디님][케이디], [골든메탈님][골든메탈], Dev GomDol님[곰돌]
 
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
+[케이디]: https://www.youtube.com/c/%EC%BC%80%EC%9D%B4%EB%94%94
+[골든메탈]: https://www.youtube.com/c/GoldMetal
+[곰돌]: https://www.youtube.com/c/DevGomDol/videos
