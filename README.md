@@ -22,4 +22,4 @@
 
 ## 주인공 캐릭터
 ### 주인공 캐릭터는 RPG Maker MV라는 프로그램에서 최대한 평범한 캐릭터로 만들어서 가져왔습니다.
-![sc](Image/Front.png)
+![sc](Image/Front.png) ![sc](Image/SideA.png)
