@@ -31,7 +31,8 @@
 
 ## 그외 이미지들
 
-1. ![sc](Image/Door.png) 편집본 ![sc](Image/DoorS.png) 원본
+### 문
+![sc](Image/Door.png) 원본 ![sc](Image/DoorS.png) 편집본(인 게임 사용)
 
 
  
