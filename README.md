@@ -22,11 +22,11 @@
 
 ## 주인공 캐릭터
 ### 주인공 캐릭터는 RPG Maker MV라는 프로그램에서 최대한 평범한 캐릭터로 만들어서 가져왔습니다.
-![sc](Image/Front.png) 앞 모습
-![sc](Image/SideA.png) 옆 모습 1
-![sc](Image/SideB.png) 옆 모습 2
-![sc](Image/Behind.png) 뒷 모습
-![sc](Image/Nomal_walk.png) 걷 애니메이션을 위한 전체 모습
+![sc](Image/Front.png) 앞 모습\n
+![sc](Image/SideA.png) 옆 모습 1\n
+![sc](Image/SideB.png) 옆 모습 2\n
+![sc](Image/Behind.png) 뒷 모습\n
+![sc](Image/Nomal_walk.png) 걷기 애니메이션을 위한 전체 모습
 
  
 
