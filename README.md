@@ -41,6 +41,11 @@
 3-1. ![sc](MapImage/Gluttony.png)
 4. ![sc](MapImage/Greed.png)
 
+## UI
+1. ![sc](Image/MainMenu.png)
+2. ![sc](Image/HowToPlay.png)
+3. ![sc](Image/GameOver.png)
+
 
 ## 그외 이미지들 (원본이 같이 안 올라온 것들은 대충 혼자 그린겁니다.)
 
