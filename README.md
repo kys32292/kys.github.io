@@ -1,6 +1,6 @@
 # 게임 이름
 
-### Endure the Five deadly sins(5개의 욕망 참기)
+### ~Endure the Five deadly sins(5개의 욕망 참기)~
 
 ## 개발 엔진
 
