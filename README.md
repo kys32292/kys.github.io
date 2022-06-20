@@ -36,8 +36,10 @@
 1. ![sc](MapImage/Sloth.png)
 1-1. ![sc](MapImage/Maze.png)
 2. ![sc](MapImage/SlothMini.png)
-2-1. 1. ![sc](MapImage/Sloth.png)
+2-1. ![sc](MapImage/SlothF.png)
 3. ![sc](MapImage/GluttonyMini.png)
+3-1. ![sc](MapImage/Gluttony.png)
+4. ![sc](MapImage/Greed.png)
 
 
 ## 그외 이미지들 (원본이 같이 안 올라온 것들은 대충 혼자 그린겁니다.)
