@@ -34,7 +34,9 @@
 
 ## 맵 이미지
 1. ![sc](MapImage/Sloth.png)
+1-1. ![sc](MapImage/Maze.png)
 2. ![sc](MapImage/SlothMini.png)
+2-1. 1. ![sc](MapImage/Sloth.png)
 3. ![sc](MapImage/GluttonyMini.png)
 
 
